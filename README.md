@@ -38,6 +38,7 @@ Unveiled the rankings for each capability based on GEMINI Ultra scores, offering
 9️⃣ Uppercase Transformation:
 
 Enhanced readability by converting Capability and Benchmark names to uppercase, aligning with standardized conventions.
+
 🔍 Benchmarks with Descriptions:
 
-Provided a detailed overview of benchmarks alongside their descriptions, offering a holistic perspective on their functio
+Provided a detailed overview of benchmarks alongside their descriptions, offering a holistic perspective on their functionality.
